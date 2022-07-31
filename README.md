@@ -80,3 +80,9 @@
 - Pingpong
 - Termogate
 
+
+## MIESTA VO VLAKU:
+
+^^^^^^^^^^^^^^
+] 6 4 || 8 2 [
+] 5 7 || 3 1 [
