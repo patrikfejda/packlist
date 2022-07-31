@@ -20,69 +20,79 @@
 - Krém na opaľovanie 
 
 ## OBLEČENIE
+- Tričká
+- Kraťasy
+- Rifle
+- Tepláky
 - Ponožky kotníkové
 - Ponožky vysoké 
 - Trenky
-- Tričká
-- Kraťasy
-- Rifle 
-- Tepláky
 - Pyžamo
 - Mikina
 - Bunda
+- Taška/igelitka na špinavé prádlo
+- Pokrývka hlavy
+- Uterák
+- Malý uterák
+- Plavky
+- Vankúš
+- Slnečné okuliare
+- Termogate a termotričko
 
-## BOTY
+
+
+## TOPÁNKY
 - Tenisky
 - Turistické boty
 - Prezúvky
 
+## DOKLADY
+- Peňaženka
+- Cash
+- Kreditka
+- Občiansky preukaz
+- Vodičský preukaz
+- Karta poistenca
+- ISIC
+- Vlačenka
+- Lístky /vlak, bus/
+
+## TECHNIKA 
+- Nabíjačka
+- Powerbanka
+- Čelovka / baterka
+- Rozdvojka
+- Bezdrôtobvý reprák
+- Redukcia na jack
+- Slúchatká
+
 ## INÉ 
 - Servítky
-- Zvukárske - rukavice, štuple, čelovka (len Patrik) 
-- malý ruksak
-- pokrývka hlavy
-- Uterák
-- Malý uterák
-- Taška/igelitka na špinavé prádlo
+- Ruksak
 - Fén
-- Vankúš
-- Slnečné okuliare
-- Spacák
-- Karimatka
-- Baterka
 - Fľaša
 - Brnkátko
-- Vreckové
 - Toaletný papier
-- Powerbanky
-- Lístky na vlak
-- Vlaková karta
-- Peňaženka
-- OP
-- Karta poistenca
-- Nabíjačka 
-- Dáždnik 
-- Plavky modré
-- Rozdvojka
+- Dáždnik / Pončo
+
+## STANOVAČKA
+- Spacák
+- Karimatka
 - Škraboska
 - Bufka
-- Powerbank
+
+## ZVUKÁRSKE
+- Rukavice
+- Štuple
+- Ochranné slúchadlá
 - Čelovka
-
-## ZIMNÉ
-- Vyhrievač na boty 
-- Ponožky lyžiarske 
-- Viesmann biatlonová mikina (len Paťo) 
-- Rukavice 2 páry
-- Nákrčník čierny 
-- Termo Hore
-- Palice
-- Lyže 
-- Pingpong
-- Termogate
+- Labello
+- Servítky
+- Fixka 
 
 
-## MIESTA VO VLAKU:
+
+## MIESTA VO VLAKU
 
 ^^^^^^^^^^
 
