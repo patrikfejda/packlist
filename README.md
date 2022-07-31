@@ -7,7 +7,7 @@
 - Lieky
     - na alergiu
     - B-komplex
-    - Vitaminy
+    - Vitamíny
 - Leukoplast
 - Zubná kefka a pasta
 - Tyčinky do uší
