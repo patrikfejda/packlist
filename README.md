@@ -9,18 +9,19 @@
     - B-komplex
     - Vitaminy
 - Leukoplast
-- Kefka pasta
-- Šnuptichelflinty do uší
-- Holiaci strojček
+- Zubná kefka a pasta
+- Tyčinky do uší
+- Holiaci strojček / žiletka
 - Antiperspirant
 - Šampón
+- Mydlo / sprchovací gél
 - Labello
 - Repelent
 - Krém na opaľovanie 
 
 ## OBLEČENIE
-- Ponožky nizke
-- Ponožky turistické vysoké
+- Ponožky kotníkové
+- Ponožky vysoké 
 - Trenky
 - Tričká
 - Kraťasy
@@ -47,7 +48,7 @@
 - Vankúš
 - Slnečné okuliare
 - Spacák
-- karimatka
+- Karimatka
 - Baterka
 - Fľaša
 - Brnkátko
@@ -58,15 +59,15 @@
 - Vlaková karta
 - Peňaženka
 - OP
-- karta poistenca
+- Karta poistenca
 - Nabíjačka 
 - Dáždnik 
 - Plavky modré
 - Rozdvojka
-- skraboska
-- bufka
-- powerbank
-- čelovka
+- Škraboska
+- Bufka
+- Powerbank
+- Čelovka
 
 ## ZIMNÉ
 - Vyhrievač na boty 
