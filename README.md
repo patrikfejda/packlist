@@ -1,4 +1,4 @@
-# PACKILIST
+# PACKLIST
 
 ## KOZMETICKÁ TAŠTIČKA
 - Fenistil
