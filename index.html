@@ -539,6 +539,35 @@
 
         </section>
     </div>
+
+    <script>
+        // Get the checkboxes
+        const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+
+        // Load the state of checked items from localStorage
+        const savedState = localStorage.getItem('checkedItems');
+        const checkedItems = savedState ? JSON.parse(savedState) : {};
+
+        // Loop through the checkboxes and set their checked state
+        checkboxes.forEach(checkbox => {
+            if (checkedItems[checkbox.id]) {
+                checkbox.checked = true;
+            }
+
+            // Add event listener to update the checkedItems object
+            checkbox.addEventListener('change', event => {
+                if (event.target.checked) {
+                    checkedItems[event.target.id] = true;
+                } else {
+                    delete checkedItems[event.target.id];
+                }
+
+                // Save the state of checked items to localStorage
+                localStorage.setItem('checkedItems', JSON.stringify(checkedItems));
+            });
+        });
+    </script>
+
 </body>
 
 </html>
