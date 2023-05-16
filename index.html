@@ -39,7 +39,7 @@
 
 <body>
 
-    <div id="mainDiv" class="container">
+    <div class="container">
         <h2 id="kozmeticka_tasticka">KOZMETICKÁ TAŠTIČKA</h2>
         <ul>
             <li><label><input id="fenistil" type="checkbox">Fenistil</label></li>
@@ -168,19 +168,6 @@
             });
         });
     </script>
-
-    <script>
-        window.addEventListener("DOMContentLoaded", function() {
-            var screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-
-            var mobileThreshold = 768;
-
-            if (screenWidth > mobileThreshold) {
-                document.getElementById("mainDiv").innerHTML = "<h4>Sorry, this app is for mobile use only.</h4>";
-            }
-        });
-    </script>
-
 
 </body>
 
