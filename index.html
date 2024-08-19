@@ -15,27 +15,42 @@
         padding: 0;
         background: #151515;
         color: #eaeaea;
-        font-size: 50px;
+        font-size: 4vw; /* Set the font size relative to the viewport width */
         line-height: 1.7;
         font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     }
-    
+
     .container {
         width: 100%;
-        display: block;
-        margin: 0 20px 0 20px
+        max-width: 800px; /* Limit the maximum width for larger screens */
+        margin: 0 auto; /* Center the container */
+        padding: 0 20px; /* Add padding on the sides */
     }
-    
+
     ul {
         list-style-type: none;
+        padding-left: 0;
     }
-    
+
     input[type=checkbox] {
-        width: 40px;
-        height: 40px;
+        width: 5vw; /* Set the checkbox size relative to the viewport width */
+        height: 5vw;
         margin-right: 10px;
     }
+
+    /* Media query for larger screens */
+    @media (min-width: 768px) {
+        body {
+            font-size: 20px; /* Set a more standard font size for larger screens */
+        }
+
+        input[type=checkbox] {
+            width: 20px; /* Set a fixed size for checkboxes on larger screens */
+            height: 20px;
+        }
+    }
 </style>
+
 
 <body>
 
