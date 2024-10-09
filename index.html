@@ -61,6 +61,32 @@
             height: 10vw;
         }
     }
+
+    .clear-btn {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 1em;
+        color: #eaeaea;
+        background-color: #444;
+        border: 2px solid #888;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s, color 0.3s;
+        text-align: center;
+    }
+
+    .clear-btn:hover {
+        background-color: #888;
+        color: #151515;
+        border-color: #eaeaea;
+    }
+
+    .clear-btn:active {
+        background-color: #666;
+        color: #fff;
+        border-color: #555;
+    }
 </style>
 
 
@@ -160,6 +186,8 @@
             <li><label><input id="bufka" type="checkbox">Bufka</label></li>
         </ul>
 
+        <button id="clearAllButton" class="clear-btn">Clear All</button>
+
         <h2 id="miesta-vo-vlaku">MIESTA VO VLAKU</h2>
 
         <p>^^^^^^^^^^</p>
@@ -196,6 +224,16 @@
                 localStorage.setItem('checkedItems', JSON.stringify(checkedItems));
             });
         });
+
+        document.getElementById('clearAllButton').addEventListener('click', () => {
+            // Uncheck all checkboxes
+            checkboxes.forEach(checkbox => checkbox.checked = false);
+
+            // Clear the saved state from localStorage
+            localStorage.removeItem('checkedItems');
+            alert("Cleared all items");
+        });
+
     </script>
 
 </body>
